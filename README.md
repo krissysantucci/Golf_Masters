@@ -19,5 +19,18 @@ Performed a cluster analysis to determine in which groups the highest concentrat
 
 [logo]: https://github.com/krissysantucci/Golf_Masters/blob/images/ClusterGroups.png "Cluster Groups"
 
+Tested Sub-variables within key catagories for correlation to strokes gained.
+
+![alt text][Tee]
+
+[Tee]: https://github.com/krissysantucci/Golf_Masters/blob/images/OffTheTee.png "Distance Vs Accuracy"
+
+![alt text][App]
+
+[App]: https://github.com/krissysantucci/Golf_Masters/blob/images/Approach.png "Approach the Green"
+
+![alt text][putt]
+
+[putt]: https://github.com/krissysantucci/Golf_Masters/blob/images/Putting.png "Putting"
 
 
