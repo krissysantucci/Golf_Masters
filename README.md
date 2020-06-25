@@ -13,3 +13,8 @@ Data: Source:
      Putting
   
 Performed a cluster analysis to determine in which groups the highest concentration of winners fell.
+![alt text][logo]
+
+[logo]: 
+
+
